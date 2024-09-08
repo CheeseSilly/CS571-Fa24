@@ -1,0 +1,16 @@
+{
+    "name":{
+        "first":"Hazard",
+        "last":"Wen"
+    },
+    "fromWisconsin":false,
+    "numCredits":18 ,
+    "major":"Software Engineering",
+    "interests":{
+        "0":"Programming",
+        "1":"Computer"
+    }
+
+
+
+}
